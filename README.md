@@ -13,4 +13,4 @@ Enter Speed in the input box
 ### Auto-generate random speed
 Similar to rendering speed-o-meter fluctuation in real-time using GET/POST HTTP Request using data from a sensor/server
 
-Uncomment line 165 in speeddash.js and Comment line 166
+Uncomment line 165 in speedmeter.js and Comment line 166
